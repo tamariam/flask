@@ -1,6 +1,6 @@
 ---
-name: User Story
-about: 'This is User story template '
+name: epic
+about: epic
 title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
